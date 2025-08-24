@@ -84,7 +84,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: Itch Io
             url: 'https://www.instagram.com/'
         styles:
           self:
