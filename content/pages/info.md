@@ -85,7 +85,7 @@ sections:
         actions:
           - type: Link
             label: Itch Io
-            url: 'https://www.instagram.com/'
+            url: 'https://llamahoose.itch.io'
         styles:
           self:
             textAlign: left
