@@ -15,7 +15,7 @@ featuredImage:
   caption: A picture of 2 dogs within the game
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/VRDogThumbNail2.PNG
   altText: Project image
 ---
 
