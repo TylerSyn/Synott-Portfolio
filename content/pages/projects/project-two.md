@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/VRDogThumbNail2.PNG
+  url: /images/e0Wycx.png
   altText: Project image
 ---
 This project was made for my VR class final, and I wish I had more time work on this project inside and outside class. 
