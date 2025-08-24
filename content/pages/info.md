@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Tyler Synott 2.jpg
       altText: Hero image
     styles:
       self:
