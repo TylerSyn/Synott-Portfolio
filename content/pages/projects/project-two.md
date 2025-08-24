@@ -17,21 +17,19 @@ media:
   url: /images/e0Wycx.png
   altText: Project image
 ---
-This project was made for my VR class final, and I wish I had more time work on this project inside and outside class. 
+This game was chosen from 3 other games to expand on and this one was chosen. It started off by simply chasing around enemies to kill them, but then it soon evolved having a score system, hunger, day/night cycle, and a popular favorite ***Hats*** that you can wear as the bear.
 
-There are many things that I'd like to add to this project if I had a chance
+I had personally worked on many of the system for this project having worked on
 
-*   better animations
+*   the animal AI, for both prey and the other predators
 
-*   being able to feed, brush, etc
+*   day/night cycle
 
-*   possibly make it so it's non-VR compatible
+*   hunger and timer
 
-*   create a customizable home area to use as a hub
+*   score system
 
-*   more areas to play with the dogs at
+*   and the spawn system that changes based off deaths and proximity
 
-*   competitions for rewards and customizations
-
-I think this is a project that I'd like to work on more, as it feels almost nostalgic with how similar to Nintendogs it is.
+If I had more time to work on this game, I would have liked to program the AI to run away form the player, as well as actually give the animals other than the bear animations.
 
