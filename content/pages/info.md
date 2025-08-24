@@ -119,7 +119,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: React
+        label: C#
       - type: Label
         label: Microsoft Office
       - type: Label
