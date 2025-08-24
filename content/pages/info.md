@@ -131,7 +131,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Swift
+        label: 2D
   - type: DividerSection
     styles:
       self:
