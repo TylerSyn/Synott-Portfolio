@@ -69,7 +69,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/TylerSyn'
         styles:
           self:
             textAlign: left
