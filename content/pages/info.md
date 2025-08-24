@@ -123,7 +123,7 @@ sections:
       - type: Label
         label: Unity
       - type: Label
-        label: Next.js
+        label: Monogame
       - type: Label
         label: Netlify
       - type: Label
