@@ -53,11 +53,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-f
     subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+    images: []
     spacing: 3
     columns: 5
     aspectRatio: auto
