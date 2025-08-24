@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: VR Dog
 colors: colors-a
-date: '2022-09-20'
+date: '2022-08-20'
 client: ''
 description: >-
   The VR Dog project was a favorite project of mine, with the player being able
