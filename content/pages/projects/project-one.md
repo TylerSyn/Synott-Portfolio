@@ -1,18 +1,21 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: VR Dog
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2022-08-20'
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  The VR Dog project was a favorite project of mine, with the player being able
+  to play fetch with a variety dogs. This was a project that I had many ideas
+  for before it's beginnings, but haven't had much time to put into it.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/VRDogThumbNail2.PNG
   altText: Project thumbnail image
+  caption: A picture of 2 dogs within the game
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/VRDogThumbNail2.PNG
   altText: Project image
 ---
 
