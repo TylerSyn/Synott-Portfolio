@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: VR Dog
 colors: colors-a
-date: '2022-09-15'
+date: '2022-09-20'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
