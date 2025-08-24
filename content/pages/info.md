@@ -127,7 +127,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Pancakes
+        label: JavaScript & HTML
       - type: Label
         label: C++
       - type: Label
