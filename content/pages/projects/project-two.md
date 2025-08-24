@@ -10,7 +10,7 @@ description: >-
   stay alive for as long as possible
 featuredImage:
   type: ImageBlock
-  url: /images/VRDogThumbNail2.PNG
+  url: /images/apW1TB.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
