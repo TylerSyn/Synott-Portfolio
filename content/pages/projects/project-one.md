@@ -10,7 +10,7 @@ description: >-
   for before it's beginnings, but haven't had much time to put into it.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/VRDogThumbNail2.PNG
   altText: Project thumbnail image
 media:
   type: ImageBlock
