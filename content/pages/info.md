@@ -77,7 +77,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/tyler-synott-3a69552b7'
         styles:
           self:
             textAlign: left
