@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: OET educational project
 colors: colors-a
-date: '2022-01-22'
+date: '2021-12-22'
 client: Ocean Exploration Trust
 description: >-
   This was an educational project created for the Ocean Exploration Trust that I
