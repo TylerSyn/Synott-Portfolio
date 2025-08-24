@@ -135,6 +135,9 @@ sections:
       - type: Label
         label: 3D
         url: ''
+      - type: Label
+        label: VR
+        url: ''
   - type: DividerSection
     styles:
       self:
