@@ -129,7 +129,7 @@ sections:
       - type: Label
         label: JavaScript & HTML
       - type: Label
-        label: C++
+        label: SQL
       - type: Label
         label: Swift
   - type: DividerSection
