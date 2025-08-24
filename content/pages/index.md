@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a developer, Who loves working on different types of projects from 2d
+      to vr
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I have experience with many different kinds of development tools and
+      languages, with experience with C++, C#, Java, JavaScript & HTML. Along
+      with other tools such as Monogame for more custom game engines, and
+      practice in mobile development.
     styles:
       self:
         height: auto
@@ -65,33 +66,6 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
