@@ -4,7 +4,10 @@ title: A Bearable Experience
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: 'A Bearable Experience  '
+description: >-
+  A Bearable Experience was a game that I worked on for a class, having 4 weeks
+  to work on the game in total. You chase around animals as a bear to try and
+  stay alive for as long as possible
 featuredImage:
   type: ImageBlock
   url: /images/VRDogThumbNail2.PNG
