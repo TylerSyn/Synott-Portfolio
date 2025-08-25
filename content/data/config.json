@@ -19,7 +19,16 @@
                 "url": "/projects"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/TylerSyn",
+                "icon": "github",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
