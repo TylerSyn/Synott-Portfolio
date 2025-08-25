@@ -171,18 +171,23 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   BA Game development & simulation programming
 
-          **2014**
 
-          * react certificate somewhere
 
-          **2011**
+          **2022-2024**
 
-          * my highschool
+          *   AS Game development & design
+
+
+
+          **2022**
+
+          *   Thomaston High School
+
         styles:
           self:
             textAlign: left
