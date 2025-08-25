@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Tyler Synott.jpg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -17,27 +17,24 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Github",
+                "altText": "",
+                "url": "https://github.com/TylerSyn",
+                "icon": "github",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "LinkdIn",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/tyler-synott-3a69552b7",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -58,13 +55,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "url": "mailto:tycsnot@gmail.com",
                 "altText": ""
             },
             {
@@ -77,12 +68,12 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "tycsnot@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "",
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
