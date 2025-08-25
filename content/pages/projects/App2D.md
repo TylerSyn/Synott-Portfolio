@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/image_2025-08-25_192322167.png
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
