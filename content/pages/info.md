@@ -14,14 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hello I am a developer/programmer. I am based around the New England
+      area, and I wish to create games and experiences that people can remember.
+      I gain so much excitement from learning new things when it comes to the
+      game development process.
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Tyler Synott 2.jpg
       altText: Hero image
     styles:
       self:
@@ -50,45 +50,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -108,15 +69,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/TylerSyn'
         styles:
           self:
             textAlign: left
@@ -124,31 +77,15 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/tyler-synott-3a69552b7'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            label: Itch Io
+            url: 'https://llamahoose.itch.io'
         styles:
           self:
             textAlign: left
@@ -180,21 +117,27 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: C#
+      - type: Label
+        label: Unity
+      - type: Label
+        label: Monogame
+      - type: Label
+        label: Java
+      - type: Label
+        label: JavaScript & HTML
+      - type: Label
+        label: SQL
+      - type: Label
+        label: 2D
+      - type: Label
+        label: 3D
+        url: ''
+      - type: Label
+        label: VR
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -211,7 +154,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [tycsnot.@gamil.com](mailto:tycsnot@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -227,44 +170,24 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   BA Game development & simulation programming
 
-          **2014**
 
-          * react certificate somewhere
 
-          **2011**
+          **2022-2024**
 
-          * my highschool
+          *   AS Game development & design
+
+
+
+          **2022**
+
+          *   Thomaston High School
+
         styles:
           self:
             textAlign: left
@@ -292,65 +215,4 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
 ---
