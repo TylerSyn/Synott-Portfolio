@@ -4,9 +4,8 @@ title: 2DApp
 date: '2021-12-20'
 client: ''
 description: >-
-  A Bearable Experience was a game that I worked on for a class, having 4 weeks
-  to work on the game in total. You chase around animals as a bear to try and
-  stay alive for as long as possible
+  My 2D app was a small survive the horde game that I had chosen and expanded
+  upon from 3 different projects for a mobile development class
 featuredImage:
   type: ImageBlock
   url: /images/apW1TB.png
