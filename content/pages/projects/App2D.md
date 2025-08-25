@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 2D Mobile App
 date: '2025-05-27'
-client: Awesome client
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
