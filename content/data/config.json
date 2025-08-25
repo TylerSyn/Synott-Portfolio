@@ -27,6 +27,14 @@
                 "url": "https://github.com/TylerSyn",
                 "icon": "github",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/tyler-synott-3a69552b7",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
