@@ -28,3 +28,8 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+I had created a prototype of 3 mobile apps each having some kind of different premise or control to them and how they worked on a phone. This was the prototype that I had chosen to work on for my final.
+
+It is a 2D survive the horde style game where you just survive as long as possible, picking up power ups to help.
+
+I still have each prototype on my phone and return back to play 2 of them time to time, even though they are very bare bones
