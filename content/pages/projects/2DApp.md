@@ -8,7 +8,7 @@ description: >-
   upon from 3 different projects for a mobile development class
 featuredImage:
   type: ImageBlock
-  url: /images/apW1TB.png
+  url: /images/image_2025-08-25_191956956.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
