@@ -3,7 +3,9 @@ type: ProjectLayout
 title: 2D Mobile App
 date: '2025-05-27'
 client: ''
-description: ''
+description: >-
+  This app was selected out of 3 prototypes to be expanded upon and worked on
+  for a final, in about a period of 3 weeks.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
