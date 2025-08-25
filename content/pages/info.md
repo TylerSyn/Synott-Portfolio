@@ -154,7 +154,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [tycsnot.@gamil.com](mailto:tycsnot@gmail.com)
+      [tycsnot.@gmail.com](mailto:tycsnot@gmail.com)
   - type: DividerSection
     styles:
       self:
