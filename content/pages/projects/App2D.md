@@ -8,7 +8,7 @@ description: >-
   for a final, in about a period of 3 weeks.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/image_2025-08-25_192306489.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
