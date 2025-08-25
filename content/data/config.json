@@ -22,7 +22,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Github",
                 "altText": "",
                 "url": "https://github.com/TylerSyn",
                 "icon": "github",
