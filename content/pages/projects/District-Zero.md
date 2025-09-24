@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A Bearable Experience
+title: District Zero
 date: '2021-12-20'
 client: ''
 description: >-
