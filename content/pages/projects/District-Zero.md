@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/e0Wycx.png
+  url: /images/Scrn1.png
   altText: Project image
 bottomSections: []
 metaTags: []
