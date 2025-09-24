@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: District Zero
-date: '2021-12-20'
+date: '2021-12-24'
 client: ''
 description: >-
   A Bearable Experience was a game that I worked on for a class, having 4 weeks
