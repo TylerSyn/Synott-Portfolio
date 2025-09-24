@@ -9,7 +9,7 @@ description: >-
   released to steam for anyone to play for free.
 featuredImage:
   type: ImageBlock
-  url: /images/apW1TB.png
+  url: /images/Logo_01_920x430.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
