@@ -21,23 +21,26 @@ colors: colors-a
 ---
 For this project I had worked on system like
 
-*    Items
+*   Items
 
-*    Inventory
+*   Inventory
 
-*    Guns
+*   Guns
 
-*    Asset implementation for the designers
+*   Asset implementation for the designers
 
-*    Level loading
+*   Level loading
 
-*    Menu's and UI
+*   Menu's and UI
 
- As well testing managing results and talking to my team about the results we had gotten from testing. 
+As well testing managing results and talking to my team about the results we had gotten from testing.
 
 The overall goal of the project was to make a fun fps horror shooter and release it on steam which we had managed to do.
 
 I was the one who managed the steam page as well as getting the game up on steam and making sure it was all set to be released and available.
 
+<https://store.steampowered.com/app/3758280/District_Zero/>
 
+Along with that we needed to create a presentation about our game and present it in from of friends, family, teachers, and other students.
 
+I had a wonderful time working on this game and creating so much from nothing.
