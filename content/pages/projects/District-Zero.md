@@ -19,19 +19,25 @@ bottomSections: []
 metaTags: []
 colors: colors-a
 ---
-This game was chosen from 3 other games to expand on and this one was chosen. It started off by simply chasing around enemies to kill them, but then it soon evolved having a score system, hunger, day/night cycle, and a popular favorite ***Hats*** that you can wear as the bear.
+For this project I had worked on system like
 
-I had personally worked on many of the system for this project having worked on
+*    Items
 
-*   the animal AI, for both prey and the other predators
+*    Inventory
 
-*   day/night cycle
+*    Guns
 
-*   hunger and timer
+*    Asset implementation for the designers
 
-*   score system
+*    Level loading
 
-*   and the spawn system that changes based off deaths and proximity
+*    Menu's and UI
 
-If I had more time to work on this game, I would have liked to program the AI to run away form the player, as well as actually give the animals other than the bear animations.
+ As well testing managing results and talking to my team about the results we had gotten from testing. 
+
+The overall goal of the project was to make a fun fps horror shooter and release it on steam which we had managed to do.
+
+I was the one who managed the steam page as well as getting the game up on steam and making sure it was all set to be released and available.
+
+
 
