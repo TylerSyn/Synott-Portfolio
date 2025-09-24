@@ -5,7 +5,8 @@ date: '2021-12-24'
 client: ''
 description: >-
   District Zero is a fps horror game made for my senior capstone, over about the
-  course of 20 weeks with 1 other developer and 2 designers.
+  course of 20 weeks with 1 other developer and 2 designers. Which has been
+  released to steam for anyone to play for free.
 featuredImage:
   type: ImageBlock
   url: /images/apW1TB.png
