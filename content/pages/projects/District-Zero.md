@@ -4,9 +4,8 @@ title: District Zero
 date: '2021-12-24'
 client: ''
 description: >-
-  A Bearable Experience was a game that I worked on for a class, having 4 weeks
-  to work on the game in total. You chase around animals as a bear to try and
-  stay alive for as long as possible
+  District Zero is a fps horror game made for my senior capstone, over about the
+  course of 20 weeks with 1 other developer and 2 designers.
 featuredImage:
   type: ImageBlock
   url: /images/apW1TB.png
